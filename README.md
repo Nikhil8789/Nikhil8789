@@ -25,7 +25,11 @@
 
 <br>
 ---
+## 🏆 My Badges
 
+[![@nikhil8789's Holopin board](https://holopin.me/nikhil8789)](https://holopin.io/@nikhil8789)
+
+---
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil8789&show_icons=true&locale=en&layout=compact" alt="aman5062" /></p>
